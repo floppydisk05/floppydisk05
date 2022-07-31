@@ -13,4 +13,4 @@
 </div>
 <img src="https://komarev.com/ghpvc/?username=floppydisk&style=flat-square&color=blue" alt=""/>
 <h1>Hey there 👋</h1>
-[![status](https://badge.stateful.com/floppydisk05/status.svg)](Status for @floppydisk05)
+<img src="https://badge.stateful.com/floppydisk05/status.svg">
