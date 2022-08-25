@@ -1,16 +1,28 @@
+### Hi, I'm Frankie!
 
+----
 
-<div id="badges">
-  <a href="https://twitter.com/floppydisk__">
-    <img src="https://img.shields.io/badge/Twitter-blue?logo=twitter&logoColor=white&style=for-the-badge" alt="Twitter Badge"/>
-  </a>
-  <a href="mailto:floppydisk05@aol.com">
-    <img src="https://img.shields.io/badge/Email-red?logo=minutemailer&logoColor=white&style=for-the-badge" alt="Email Badge"/>
-  </a>
-  <a href="https://diskfloppy.me/">
-    <img src="https://img.shields.io/badge/Website-blue?logo=internet-explorer&logoColor=white&style=for-the-badge" alt="Website Badge"/>
-  </a>
-</div>
-<img src="https://komarev.com/ghpvc/?username=floppydisk&style=flat-square&color=blue" alt=""/>
-<h1>Hey there 👋</h1>
-<img src="https://badge.stateful.com/floppydisk05/status.svg">
+![languages](https://img.shields.io/static/v1?label=&message=languages:&color=111&style=flat-square)
+![python](https://img.shields.io/static/v1?logo=python&label=&message=python&color=36465D&logoColor=AAA&style=flat-square&link=)
+![csharp](https://img.shields.io/static/v1?logo=csharp&label=&message=C%23&color=36465D&logoColor=AAA&style=flat-square&link=)
+![php](https://img.shields.io/static/v1?logo=php&label=&message=PHP&color=36465D&logoColor=AAA&style=flat-square&link=)
+![javascript](https://img.shields.io/static/v1?logo=javascript&label=&message=JavaScript&color=36465D&logoColor=AAA&style=flat-square&link=)
+![nodejs](https://img.shields.io/static/v1?logo=nodedotjs&label=&message=Node%2EJS&color=36465D&logoColor=AAA&style=flat-square&link=)
+&nbsp;&nbsp;&nbsp;
+![tools](https://img.shields.io/static/v1?label=&message=tools:&color=111&style=flat-square)
+![vscode](https://img.shields.io/static/v1?logo=visualstudiocode&label=&message=VSCode&color=36465D&logoColor=AAA&style=flat-square)
+![vim](https://img.shields.io/static/v1?logo=vim&label=&message=vim&color=36465D&logoColor=AAA&style=flat-square)
+![git](https://img.shields.io/static/v1?logo=git&label=&message=git&color=36465D&logoColor=AAA&style=flat-square)
+
+[![Discord](https://discord.c99.nl/widget/theme-1/437970062922612737.png)]()
+
+---
+
+<a href="https://twitter.com/floppydisk__">
+  <img align="left" alt="floppydisk's Twitter" width="20px" src="https://simpleicons.now.sh/twitter/495f7e" />
+</a>
+<a href="https://github.com/floppydisk05">
+  <img align="left" alt="floppydisk's GitHub" width="20px" src="https://simpleicons.now.sh/github/495f7e" />
+</a>
+
+| &nbsp;&nbsp;&nbsp; Website : [https://diskfloppy.me](https://diskfloppy.me)
