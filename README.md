@@ -27,4 +27,4 @@
   <img align="left" alt="floppydisk's GitHub" width="20px" src="https://simpleicons.now.sh/github/495f7e" />
 </a>
 
-| &nbsp;&nbsp;&nbsp; Website : [https://diskfloppy.me](diskfloppy.me)
+| &nbsp;&nbsp;&nbsp; Website : [diskfloppy.me](https://diskfloppy.me)
