@@ -16,6 +16,7 @@
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=floppydisk05&count_private=true&hide=issues&include_all_commits=true&show_icons=true&custom_title=GitHub%20Stats&bg_color=1a1c1f&title_color=ffffff&text_color=dcddde&icon_color=5865f2&hide_border=true&border_radius=10px)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=floppydisk05&layout=compact&bg_color=1a1c1f&title_color=ffffff&text_color=dcddde&icon_color=5865f2&hide_border=true&border_radius=10px)
+
 [![Discord Presence](https://lanyard.cnrad.dev/api/437970062922612737
                             )](https://discord.com/users/437970062922612737)
 ---
