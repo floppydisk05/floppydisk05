@@ -24,6 +24,9 @@
 <a href="https://twitter.com/floppydisk__">
   <img align="left" alt="floppydisk's Twitter" width="20px" src="https://simpleicons.now.sh/twitter/495f7e" />
 </a>
+<a href="https://mastodon.sdf.org/@floppydisk_">
+  <img align="left" alt="floppydisk's GitHub" width="20px" src="https://simpleicons.now.sh/mastodon/495f7e" />
+</a>
 <a href="https://github.com/floppydisk05">
   <img align="left" alt="floppydisk's GitHub" width="20px" src="https://simpleicons.now.sh/github/495f7e" />
 </a>
