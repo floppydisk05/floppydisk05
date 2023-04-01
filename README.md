@@ -1,22 +1,9 @@
 ### I don't need a reason to build random garbage
 
-----
+[![My Skills](https://skillicons.dev/icons?i=discord,git,vscode,css,html,cs,java,js,nodejs,php,ruby,rails,mysql)](https://skillicons.dev)
 
-![languages](https://img.shields.io/static/v1?label=&message=languages:&color=111&style=flat-square)
-![python](https://img.shields.io/static/v1?logo=python&label=&message=Python&color=36465D&logoColor=AAA&style=flat-square&link=)
-![ruby](https://img.shields.io/static/v1?logo=ruby&label=&message=Ruby&color=36465D&logoColor=AAA&style=flat-square&link=)
-![csharp](https://img.shields.io/static/v1?logo=csharp&label=&message=C%23&color=36465D&logoColor=AAA&style=flat-square&link=)
-![coldfusion](https://img.shields.io/static/v1?logo=adobe&label=&message=ColdFusion&color=36465D&logoColor=AAA&style=flat-square&link=)
-![php](https://img.shields.io/static/v1?logo=php&label=&message=PHP&color=36465D&logoColor=AAA&style=flat-square&link=)
-![javascript](https://img.shields.io/static/v1?logo=javascript&label=&message=JavaScript&color=36465D&logoColor=AAA&style=flat-square&link=)
-&nbsp;&nbsp;&nbsp;
-![tools](https://img.shields.io/static/v1?label=&message=tools:&color=111&style=flat-square)
-![vscode](https://img.shields.io/static/v1?logo=visualstudiocode&label=&message=VSCode&color=36465D&logoColor=AAA&style=flat-square)
-![phpstorm](https://img.shields.io/static/v1?logo=phpstorm&label=&message=PHPStorm&color=36465D&logoColor=AAA&style=flat-square)
-![vim](https://img.shields.io/static/v1?logo=vim&label=&message=vim&color=36465D&logoColor=AAA&style=flat-square)
-![git](https://img.shields.io/static/v1?logo=git&label=&message=git&color=36465D&logoColor=AAA&style=flat-square)
-
-![GitHub Stats](https://github-readme-stats-kohl-iota.vercel.app/api?username=floppydisk05&count_private=true&hide=issues&include_all_commits=true&show_icons=true&custom_title=GitHub%20Stats&hide_border=true&border_radius=10px&theme=tokyonight)![Top Langs](https://github-readme-stats-kohl-iota.vercel.app/api/top-langs/?username=floppydisk05&layout=compact&hide_border=true&border_radius=10px&theme=tokyonight)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=floppydisk05&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=floppydisk05&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/437970062922612737
                             )](https://discord.com/users/437970062922612737)
