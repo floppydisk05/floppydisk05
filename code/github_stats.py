@@ -315,6 +315,7 @@ Languages:
                     self._ignored_repos.add(name)
 
             for repo in repos:
+                print(repo) # debug shit
                 name = repo.get("nameWithOwner")
                 if name in self._repos or name in self._exclude_repos:
                     continue
