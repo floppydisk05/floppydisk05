@@ -19,4 +19,4 @@
   <img align="left" alt="cgit" width="20px" src="https://simpleicons.now.sh/git/495f7e" />
 </a>
 
-| &nbsp;&nbsp;&nbsp; Website : [diskfloppy.me](https://diskfloppy.me)
+| &nbsp;&nbsp;&nbsp; Websites : [diskfloppy.me](https://www.diskfloppy.me) / [dwiskfwoppy.me](https://www.dwiskfwoppy.me) / [hyprcat.net](http://www.hyprcat.net)
