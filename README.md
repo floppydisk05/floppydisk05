@@ -9,8 +9,11 @@
                             )](https://discord.com/users/437970062922612737)
 ---
 
-<a href="https://mastodon.sdf.org/@floppydisk_">
+<a href="https://c.im/@floppydisk">
   <img align="left" alt="Mastodon" width="20px" src="https://simpleicons.now.sh/mastodon/495f7e" />
+</a>
+<a href="https://git.frzn.dev/fwoppydwisk">
+  <img align="left" alt="Forgejo" width="20px" src="https://simpleicons.now.sh/forgejo/495f7e" />
 </a>
 <a href="https://github.com/floppydisk05">
   <img align="left" alt="GitHub" width="20px" src="https://simpleicons.now.sh/github/495f7e" />
