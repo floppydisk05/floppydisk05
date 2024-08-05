@@ -1,3 +1,5 @@
+most of the repos here are mirrors from the [frzn.dev forgejo instance](https://git.frzn.dev/fwoppydwisk)
+
 ### I don't need a reason to build random garbage
 
 [![My Skills](https://skillicons.dev/icons?i=git,linux,vim,vscode,cs,java,nodejs,python,php,laravel,ruby,rails,mysql)](https://skillicons.dev)
